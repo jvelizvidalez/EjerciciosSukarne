@@ -1,0 +1,10 @@
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csprojAssemblyReference.cache
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\afore.jveliz\Desktop\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
